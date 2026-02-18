@@ -2,7 +2,7 @@ section .data
     start_row   equ 5
     start_col   equ 10
     width       equ 20
-    height      equ 10
+    height      equ 9
     
     char_pixel  db  "#"        
     
